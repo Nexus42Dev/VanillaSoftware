@@ -5,4 +5,5 @@ ICSharpCode.AvalonEdit.dll
 bin\lua.xshd
 Directories
 bin
+bin\tabs
 scripts
