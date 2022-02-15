@@ -1,1 +1,1 @@
-print("Don't forget the sentinel tabs!")
+print("Don't forget the sentinel scrollbars!")
